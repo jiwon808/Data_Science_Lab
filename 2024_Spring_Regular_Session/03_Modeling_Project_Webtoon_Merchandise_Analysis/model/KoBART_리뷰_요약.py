@@ -7,7 +7,7 @@ import torch
 from transformers import PreTrainedTokenizerFast, BartForConditionalGeneration
 
 # Load the Excel file
-df = pd.read_excel('/content/drive/MyDrive/데이터 및 코드/라벨링_통합본.xlsx')
+df = pd.read_excel('/content/drive/MyDrive/데이터 및 코드/data.xlsx')
 df = df.sort_values(by='brand')
 
 # Filter for 긍정 (positive) and 부정 (negative) reviews for the product '그립톡 (2종)'
