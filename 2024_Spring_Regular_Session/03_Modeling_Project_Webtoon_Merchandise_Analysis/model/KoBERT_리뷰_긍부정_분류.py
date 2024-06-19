@@ -16,7 +16,7 @@ from sklearn.metrics import classification_report, accuracy_score, precision_rec
 from tqdm import tqdm
 
 # 데이터 로드
-file_path = '/content/drive/MyDrive/데이터 및 코드/라벨링_통합본.xlsx'
+file_path = '/content/drive/MyDrive/데이터 및 코드/data.xlsx'
 nya_df = pd.read_excel(file_path)
 
 # 추후 구분자 문제로 발생할 tap문제를 해결하기 위해 \기호 삭제
