@@ -13,7 +13,8 @@ kobart보다 keybert가 반복적인 내용이 많은 리뷰 특성상, 더욱 �
 이러한 리뷰의 긍부정 데이터 분류 요약을 통해 얻은 insight를 바탕으로 dall-e3로 해당 브랜드의 신상품을 제작해보았습니다.
 ---
 아래는 발표 자료 중 일부 내용이며, 전체 PPT는 해당 파일 참조부탁드립니다. 
-[DSL_modeling_webtoon_merchandise_analysis.pdf](https://github.com/user-attachments/files/15897543/DSL_modeling_webtoon_merchandise_analysis.pdf)
+[DSL_modeling_webtoon_merchandise_analysis.pdf](https://github.com/user-attachments/files/15897619/DSL_modeling_webtoon_merchandise_analysis.pdf)
+
 
 
 # Overview
@@ -57,6 +58,7 @@ kobart보다 keybert가 반복적인 내용이 많은 리뷰 특성상, 더욱 �
 
 
 ## 7. Conclusion
-![image](https://github.com/DataScience-Lab-Yonsei/24-1_DSL_Modeling_NLP1_Webtoon_Merchandise_Analysis/assets/155510322/33b11949-8df5-487d-9ca2-449d0572c7d1)
+![image](https://github.com/jiwon808/Data_Science_Lab/assets/75233149/43f45a57-ff39-4fba-bad9-c03dbb929929)
+
 
 
