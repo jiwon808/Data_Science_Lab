@@ -12,6 +12,9 @@ kobert와 keybart를 통해 해당 브랜드의 전체 리뷰를 요약해보았
 kobart보다 keybert가 반복적인 내용이 많은 리뷰 특성상, 더욱 효과적이어서 Keybert로 요약한 데이터를 활용하였습니다.
 이러한 리뷰의 긍부정 데이터 분류 요약을 통해 얻은 insight를 바탕으로 dall-e3로 해당 브랜드의 신상품을 제작해보았습니다.
 ---
+아래는 발표 자료 중 일부 내용이며, 전체 PPT는 해당 파일 참조부탁드립니다. 
+[Uploading DSL_modeling_webtoon_merchandise_analysis.pdf…]()
+
 # Overview
 ## 0. Cover Page
 ![image](https://github.com/DataScience-Lab-Yonsei/24-1_DSL_Modeling_NLP1_Webtoon_Merchandise_Analysis/assets/155510322/4aede3a3-9a5f-4975-b24e-0009da30e3c6)
